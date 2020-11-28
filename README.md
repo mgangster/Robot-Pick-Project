@@ -34,6 +34,8 @@ Now that you have a workspace, clone or download this repo into the **src** dire
 ```sh
 $ cd ~/catkin_ws/src
 $ git clone https://github.com/mgangster/Robot-Pick-Project.git
+$ git clone https://github.com/ros-planning/moveit_visual_tools.git
+
 ```
 
 Now from a terminal window:
