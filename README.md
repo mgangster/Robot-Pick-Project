@@ -95,5 +95,6 @@ Since debugging is enabled, you should be able to see diagnostic output on vario
 The demo ends when the robot arm reaches at the top of the drop location.
 
 ### Please write a report with a video of your arm, and upload to teambition.
+### Please read through IK_server.py and explain its FK and IK in your report.
 
 ![image](https://github.com/mgangster/Robot-Pick-Project/blob/main/req-challenge.gif?raw=true)
