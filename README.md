@@ -3,8 +3,7 @@
 
 This is a project about a robotic simulation to pick and place an object.
 
-It is suggesed to use Ubuntu 16.04 + ROS Kinetic + Gazebo 7.x, you can config by yourself, or you can download the [compressed VM disk image][1].
-[1]: https://s3-us-west-1.amazonaws.com/udacity robotics/Virtual+Machines/Lubuntu_071917/RoboVM_V2.1.0.zip/ "compressed VM disk image"
+It is suggesed to use Ubuntu 16.04 + ROS Kinetic + Gazebo 7.x, you can config by yourself, or you can download the [compressed VM disk image](https://s3-us-west-1.amazonaws.com/udacity robotics/Virtual+Machines/Lubuntu_071917/RoboVM_V2.1.0.zip).
 
 ### One time Gazebo setup step:
 Check the version of gazebo installed on your system using a terminal:
