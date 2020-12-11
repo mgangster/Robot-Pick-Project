@@ -96,4 +96,4 @@ The demo ends when the robot arm reaches at the top of the drop location.
 
 ### Please write a report with a video of your arm, and upload to teambition.
 
-!(https://github.com/mgangster/Robot-Pick-Project/blob/main/req-challenge.gif?raw=true)
+![image](https://github.com/mgangster/Robot-Pick-Project/blob/main/req-challenge.gif?raw=true)
