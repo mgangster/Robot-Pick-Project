@@ -10,8 +10,8 @@ Check the version of gazebo installed on your system using a terminal:
 ```sh
 $ gazebo --version
 ```
-To run projects from this repository you need version 7.7.0+
-If your gazebo version is not 7.7.0+, perform the update as follows:
+To run projects from this repository you need version 7.0.0+
+If your gazebo version is not 7.0.0+, perform the update as follows:
 ```sh
 $ sudo sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable `lsb_release -cs` main" > /etc/apt/sources.list.d/gazebo-stable.list'
 $ wget http://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -
@@ -95,3 +95,5 @@ Since debugging is enabled, you should be able to see diagnostic output on vario
 The demo ends when the robot arm reaches at the top of the drop location.
 
 ### Please write a report with a video of your arm, and upload to teambition.
+
+!(https://github.com/mgangster/Robot-Pick-Project/blob/main/req-challenge.gif?raw=true)
