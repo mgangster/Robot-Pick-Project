@@ -71,7 +71,7 @@ $ cd ~/catkin_ws/src/Robot-Pick-Project/kuka_arm/scripts
 $ ./safe_spawner.sh
 ```
 
-If you are running in demo mode, this is all you need. To run your own Inverse Kinematics code change the **demo** flag described above to _"false"_ and run your code (once the project has successfully loaded) by:
+If you are running in demo mode, this is all you need. To run Inverse Kinematics code from (IK_server.py) change the **demo** flag described above to _"false"_ and run (once the project has successfully loaded) by:
 ```sh
 $ cd ~/catkin_ws/src/Robot-Pick-Project/kuka_arm/scripts
 $ rosrun kuka_arm IK_server.py
@@ -86,3 +86,12 @@ Once Gazebo and rviz are up and running, make sure you see following in the gaze
 	
 	- Dropbox right next to the robot
 
+Once all these items are confirmed, open rviz window, hit Next button.
+
+To view the complete demo keep hitting Next after previous action is completed successfully.
+
+Since debugging is enabled, you should be able to see diagnostic output on various terminals that have popped up.
+
+The demo ends when the robot arm reaches at the top of the drop location.
+
+### Please write a report with a video of your arm, and upload to teambition.
